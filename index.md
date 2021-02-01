@@ -18,7 +18,7 @@ layout: default
       <a href="https://github.com/kelvinmleung">View my GitHub Profile</a> &nbsp; 
       <a href="assets/pdfs/KelvinLeungResume.pdf">Download my Resume</a> <br> &nbsp; 
     </td>
-    <td><div><img src="assets/imgs/forestPic.jpl" width="300"></div><br></td>     
+    <td><div><img src="assets/imgs/forestPic.jpg" width="300"></div><br></td>     
   </tr>
 </table>
 
