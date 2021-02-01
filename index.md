@@ -12,7 +12,7 @@ layout: default
     <td> 
       <b> Master of Science in Aeronautics and Astronautics </b> <br>
       <i> Massachusetts Institute of Technology, <a href="https://uqgroup.mit.edu/">Uncertainty Quantification Group</a>, 2019 - 2021 </i> <br>
-      <b> Bachelor of Applied Science in Engineering Science with High Honours </b> <br>
+      <b> Bachelor of Applied Science in Engineering Science with High Honours </b> <br> <br>
       <i> University of Toronto, Major in Aerospace Engineering, 2015 - 2019 </i> <br>
       <a href="https://www.linkedin.com/in/kelvin-leung-82641550/">View my LinkedIn Profile</a> &nbsp; 
       <a href="https://github.com/kelvinmleung">View my GitHub Profile</a> &nbsp; 
