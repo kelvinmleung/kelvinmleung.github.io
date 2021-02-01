@@ -12,14 +12,14 @@ layout: default
     <td> 
       <b> Master of Science in Aeronautics and Astronautics </b> <br>
       <a href="https://uqgroup.mit.edu/">Uncertainty Quantification Group</a>, <a href="https://acdl-web.mit.edu/">Aerospace Computational Design Laboratory</a> <br>
-      <i> Massachusetts Institute of Technology, , 2019 - 2021 </i> <br> <br>
+      <i> Massachusetts Institute of Technology, 2019 - 2021 </i> <br> <br>
       <b> Bachelor of Applied Science in Engineering Science with High Honours </b> <br>
       <i> University of Toronto, Major in Aerospace Engineering, 2015 - 2019 </i> <br>
       <a href="https://www.linkedin.com/in/kelvin-leung-82641550/">View my LinkedIn Profile</a> &nbsp; 
       <a href="https://github.com/kelvinmleung">View my GitHub Profile</a> &nbsp; 
       <a href="assets/pdfs/KelvinLeungResume.pdf">Download my Resume</a> <br> &nbsp; 
     </td>
-    <td><div><img src="assets/imgs/forestPic.JPG" width="300"></div><br></td>     
+    <td><div><img src="assets/imgs/forestPic.JPG" width="250"></div><br></td>     
   </tr>
 </table>
 
