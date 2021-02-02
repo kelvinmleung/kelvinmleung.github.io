@@ -8,8 +8,9 @@ layout: default
 <table style="width:100%">
   <tr>
     <td> 
-      Hi, I’m Kelvin! With a background in aerospace engineering, I’m now pursing my Master's and doctorate as part of the uncertainty quantification group at MIT. 
-I can be reached by email at <a href = "mailto: kmleung@mit.edu">kmleung@mit.edu</a>.
+      Hi, I’m Kelvin! With a background in aerospace engineering, I’m now pursing my Master's and doctorate as part of the <a href="https://uqgroup.mit.edu/">Uncertainty Quantification group</a> at MIT. 
+I can be reached by email at <a href = "mailto: kmleung@mit.edu">kmleung@mit.edu</a>. 
+      <br>
       <a href="https://www.linkedin.com/in/kelvin-leung-82641550/">View my LinkedIn Profile</a> &nbsp; 
       <a href="https://github.com/kelvinmleung">View my GitHub Profile</a> &nbsp; 
       <a href="assets/pdfs/KelvinLeungResume.pdf">Download my Resume</a> <br> &nbsp; 
@@ -57,7 +58,7 @@ I can be reached by email at <a href = "mailto: kmleung@mit.edu">kmleung@mit.edu
 
 During the summer months of 2018, I did research at the University of Michigan MDO lab. We developed a web application called <a href="https://webfoil.engin.umich.edu/">Webfoil</a> that serves as a comprehensive, open-source database of airfoils that also includes built-in tools for analysis and optimization. The database includes downloadable information such as geometric coordinates and other airfoil characterstics. One of my contributions was to run various airfoil shapes through CFD software such as Xfoil and ADFlow and compile the lift, drag, and moment data into the database. The analysis tool contains several plots that change based on user input of Reynolds number, Mach number, and angle of attack. The optimization tool uses a surrogate model to generate a new airfoil shape that minimizes drag for a given thickness, Mach number, and coefficient of lift.
 
-<a href="http://webfoil.engin.umich.edu/"> <img src="assets/imgs/webfoil.png" img width="800"> </a>
+<a href="http://webfoil.engin.umich.edu/"> <img src="assets/imgs/webfoil.png" img width="800" class="center"> </a>
 
 
 ## Can Sorting Machine
