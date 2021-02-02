@@ -29,8 +29,8 @@ I can be reached by email at <a href = "mailto: kmleung@mit.edu">kmleung@mit.edu
 <a href="https://uqgroup.mit.edu/">Uncertainty Quantification Group</a>, <a href="https://acdl-web.mit.edu/">Aerospace Computational Design Laboratory</a> <br>
 <i> Massachusetts Institute of Technology  &nbsp; &nbsp; &nbsp;   2019 - 2021 </i> <br> <br>
 <b> Bachelor of Applied Science in Engineering Science with High Honours </b> <br>
-Major in Aerospace Engineering
-<i> University of Toronto,  &nbsp; &nbsp; &nbsp; 2015 - 2019 </i> <br> <br>
+Major in Aerospace Engineering <br>
+<i> University of Toronto  &nbsp; &nbsp; &nbsp; 2015 - 2019 </i> <br> <br>
       
 # Projects
 
@@ -45,6 +45,8 @@ Major in Aerospace Engineering
     <tr>
       <td> 
         My current research project involves developing Bayesian methods for Earth remote sensing applications, with the goal of mapping the composition and biodiversity of the Earth surface in order to better understand terrestrial and aquatic ecosystems. Given radiance data collected from satellites, the surface reflectance and certain parameters relating to the atmosphere are retrieved through the inverse problem. While current methods are able to return an acceptable point estimate, they do not yield an accurate representation of the uncertainties. In this project, we develop a Bayesian Markov chain Monte Carlo (MCMC) algorithm to retrieve a posterior distribution that better quantifies the uncertainty. Since MCMC requires much more computational power, methods of linearization and dimension reduction are also investigated.
+        <br> <br>
+        <a href="https://github.com/kelvinmleung/MCMCLIS-remotesensing/">View on GitHub</a> 
       </td>
       <td>
         <div>
@@ -54,8 +56,6 @@ Major in Aerospace Engineering
     </tr>
   </tbody>
   </table>
-  <br>
-  <a href="https://github.com/kelvinmleung/MCMCLIS-remotesensing/">View on GitHub</a> 
   <br>
   <br>
 
