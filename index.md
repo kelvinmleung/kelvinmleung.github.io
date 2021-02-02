@@ -54,12 +54,21 @@ Major in Aerospace Engineering
     </tr>
   </tbody>
   </table>
+  <br>
+  <a href="https://github.com/kelvinmleung/MCMCLIS-remotesensing/">View on GitHub</a> 
+  <br>
+  <br>
 
 ## Webfoil: Airfoil Database, Analysis, and Optimization
 
 During the summer months of 2018, I did research at the University of Michigan MDO lab. We developed a web application called <a href="https://webfoil.engin.umich.edu/">Webfoil</a> that serves as a comprehensive, open-source database of airfoils that also includes built-in tools for analysis and optimization. The database includes downloadable information such as geometric coordinates and other airfoil characterstics. One of my contributions was to run various airfoil shapes through CFD software such as Xfoil and ADFlow and compile the lift, drag, and moment data into the database. The analysis tool contains several plots that change based on user input of Reynolds number, Mach number, and angle of attack. The optimization tool uses a surrogate model to generate a new airfoil shape that minimizes drag for a given thickness, Mach number, and coefficient of lift.
+<center>
+    <a href="http://webfoil.engin.umich.edu/"> <img src="assets/imgs/webfoil.png" img width="800" alt="centered image"> </a> 
+</center>
 
-<a href="http://webfoil.engin.umich.edu/"> <img src="assets/imgs/webfoil.png" img width="800" class="center"> </a>
+<br>
+<hr>
+<br>
 
 
 ## Can Sorting Machine
