@@ -10,7 +10,7 @@ layout: default
     <td> 
       Hi, I’m Kelvin! With a background in aerospace engineering, I’m now pursing my Master's and doctorate as part of the <a href="https://uqgroup.mit.edu/">Uncertainty Quantification group</a> at MIT. 
 I can be reached by email at <a href = "mailto: kmleung@mit.edu">kmleung@mit.edu</a>. 
-      <br>
+      <br> <br>
       <a href="https://www.linkedin.com/in/kelvin-leung-82641550/">View my LinkedIn Profile</a> &nbsp; 
       <a href="https://github.com/kelvinmleung">View my GitHub Profile</a> &nbsp; 
       <a href="assets/pdfs/KelvinLeungResume.pdf">Download my Resume</a> <br> &nbsp; 
@@ -47,7 +47,7 @@ I can be reached by email at <a href = "mailto: kmleung@mit.edu">kmleung@mit.edu
       </td>
       <td>
         <div>
-        <img src="assets/imgs/remotesensing.png" width="500"> 
+        <img src="assets/imgs/remotesensing.png" img width="500"> 
         </div>
       </td>
     </tr>
