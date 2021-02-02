@@ -8,12 +8,12 @@ layout: default
 <table style="width:100%">
   <tr>
     <td> 
-      Hi, I’m Kelvin! With a background in aerospace engineering, I’m now pursing my Master's and doctorate as part of the <a href="https://uqgroup.mit.edu/">Uncertainty Quantification group</a> at MIT. 
+      Hi, I’m Kelvin! With a background in aerospace engineering, I’m now pursing my Master's and doctorate as part of the <a href="https://uqgroup.mit.edu/" target="_blank">Uncertainty Quantification group</a> at MIT. 
 I can be reached by email at <a href = "mailto: kmleung@mit.edu">kmleung@mit.edu</a>. 
       <br> <br>
-      <a href="https://www.linkedin.com/in/kelvin-leung-82641550/">View my LinkedIn Profile</a> &nbsp; 
-      <a href="https://github.com/kelvinmleung">View my GitHub Profile</a> &nbsp; 
-      <a href="assets/pdfs/KelvinLeungResume.pdf">Download my Resume</a> <br> &nbsp; 
+      <a href="https://www.linkedin.com/in/kelvin-leung-82641550/" target="_blank">View my LinkedIn Profile</a> &nbsp; 
+      <a href="https://github.com/kelvinmleung" target="_blank">View my GitHub Profile</a> &nbsp; 
+      <a href="assets/pdfs/KelvinLeungResume.pdf" target="_blank">Download my Resume</a> <br> &nbsp; 
     </td>
     <td><div><img src="assets/imgs/forestPic.JPG" width="250"></div><br></td>     
   </tr>
@@ -26,7 +26,7 @@ I can be reached by email at <a href = "mailto: kmleung@mit.edu">kmleung@mit.edu
 
 
 <b> Master of Science in Aeronautics and Astronautics </b> <br>
-<a href="https://uqgroup.mit.edu/">Uncertainty Quantification Group</a>, <a href="https://acdl-web.mit.edu/">Aerospace Computational Design Laboratory</a> <br>
+<a href="https://uqgroup.mit.edu/" target="_blank">Uncertainty Quantification Group</a>, <a href="https://acdl-web.mit.edu/" target="_blank">Aerospace Computational Design Laboratory</a> <br>
 <i> Massachusetts Institute of Technology  &nbsp; &nbsp; &nbsp;   2019 - 2021 </i> <br> <br>
 <b> Bachelor of Applied Science in Engineering Science with High Honours </b> <br>
 Major in Aerospace Engineering <br>
@@ -46,7 +46,7 @@ Major in Aerospace Engineering <br>
       <td> 
         My current research project involves developing Bayesian methods for Earth remote sensing applications, with the goal of mapping the composition and biodiversity of the Earth surface in order to better understand terrestrial and aquatic ecosystems. Given radiance data collected from satellites, the surface reflectance and certain parameters relating to the atmosphere are retrieved through the inverse problem. While current methods are able to return an acceptable point estimate, they do not yield an accurate representation of the uncertainties. In this project, we develop a Bayesian Markov chain Monte Carlo (MCMC) algorithm to retrieve a posterior distribution that better quantifies the uncertainty. Since MCMC requires much more computational power, methods of linearization and dimension reduction are also investigated.
         <br> <br>
-        <a href="https://github.com/kelvinmleung/MCMCLIS-remotesensing/">View on GitHub</a> 
+        <a href="https://github.com/kelvinmleung/MCMCLIS-remotesensing/" target="_blank">View on GitHub</a> 
       </td>
       <td>
         <div>
@@ -61,9 +61,9 @@ Major in Aerospace Engineering <br>
 
 ## Webfoil: Airfoil Database, Analysis, and Optimization
 
-During the summer months of 2018, I did research at the University of Michigan MDO lab. We developed a web application called <a href="https://webfoil.engin.umich.edu/">Webfoil</a> that serves as a comprehensive, open-source database of airfoils that also includes built-in tools for analysis and optimization. The database includes downloadable information such as geometric coordinates and other airfoil characterstics. One of my contributions was to run various airfoil shapes through CFD software such as Xfoil and ADFlow and compile the lift, drag, and moment data into the database. The analysis tool contains several plots that change based on user input of Reynolds number, Mach number, and angle of attack. The optimization tool uses a surrogate model to generate a new airfoil shape that minimizes drag for a given thickness, Mach number, and coefficient of lift.
+During the summer months of 2018, I did research at the University of Michigan MDO lab. We developed a web application called <a href="https://webfoil.engin.umich.edu/">Webfoil</a> that serves as a comprehensive, open-source database of airfoils that includes built-in tools for aerodynamic analysis and optimization. The database includes downloadable information such as geometric coordinates and other airfoil characterstics. One of my contributions was to run various airfoil shapes through CFD software such as Xfoil and ADFlow and compile the lift, drag, and moment data into the database. The analysis tool contains several plots that change based on user input of Reynolds number, Mach number, and angle of attack. The optimization tool uses a surrogate model to generate a new airfoil shape that minimizes drag for a given thickness, Mach number, and coefficient of lift.
 <center>
-    <a href="http://webfoil.engin.umich.edu/"> <img src="assets/imgs/webfoil.png" img width="800" alt="centered image"> </a> 
+    <a href="http://webfoil.engin.umich.edu/"> <img src="assets/imgs/webfoil.png" img width="800" alt="centered image" target="_blank"> </a> 
 </center>
 
 <br>
