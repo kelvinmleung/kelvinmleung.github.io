@@ -27,9 +27,10 @@ I can be reached by email at <a href = "mailto: kmleung@mit.edu">kmleung@mit.edu
 
 <b> Master of Science in Aeronautics and Astronautics </b> <br>
 <a href="https://uqgroup.mit.edu/">Uncertainty Quantification Group</a>, <a href="https://acdl-web.mit.edu/">Aerospace Computational Design Laboratory</a> <br>
-<i> Massachusetts Institute of Technology, 2019 - 2021 </i> <br> <br>
+<i> Massachusetts Institute of Technology  &nbsp; &nbsp; &nbsp;   2019 - 2021 </i> <br> <br>
 <b> Bachelor of Applied Science in Engineering Science with High Honours </b> <br>
-<i> University of Toronto, Major in Aerospace Engineering, 2015 - 2019 </i> <br> <br>
+Major in Aerospace Engineering
+<i> University of Toronto,  &nbsp; &nbsp; &nbsp; 2015 - 2019 </i> <br> <br>
       
 # Projects
 
