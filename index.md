@@ -14,7 +14,7 @@ layout: default
       <a href="https://github.com/kelvinmleung" target="_blank">View my GitHub Profile</a> &nbsp; 
       <a href="assets/pdfs/KelvinLeungResume.pdf" target="_blank">Download my Resume</a> <br> &nbsp; 
     </td>
-    <td><div><img src="assets/imgs/forestPic.JPG" width="250"></div><br></td>     
+    <td><div><img src="assets/imgs/forestPic.JPG" width="300"></div><br></td>     
   </tr>
 </table>
 
@@ -49,7 +49,7 @@ Major in Aerospace Engineering <br>
       </td>
       <td>
         <div>
-        <img src="assets/imgs/remotesensing.png" img width="500"> 
+        <img src="assets/imgs/remotesensing.png" img width="700"> 
         </div>
       </td>
     </tr>
