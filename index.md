@@ -31,18 +31,16 @@ layout: default
 Major in Aerospace Engineering <br>
 <i> University of Toronto  &nbsp; &nbsp; &nbsp; 2015 - 2019 </i> <br> <br>
 
-<br>
 <hr>
-<br>
 # Projects
 
 ## Accelerated Bayesian Computation for Global Imaging Spectroscopy
 
 My current research project involves developing Bayesian methods for Earth remote sensing applications, with the goal of mapping the composition and biodiversity of the Earth surface in order to better understand terrestrial and aquatic ecosystems. Given radiance data collected from satellites, the surface reflectance and certain parameters relating to the atmosphere are retrieved through the inverse problem. While current methods are able to return an acceptable point estimate, they do not yield an accurate representation of the uncertainties. In this project, we develop a Bayesian Markov chain Monte Carlo (MCMC) algorithm to retrieve a posterior distribution that better quantifies the uncertainty. Since MCMC requires much more computational power, methods of linearization and dimension reduction are also investigated.
-<br> <br>   
+<br>
 <a href="https://github.com/kelvinmleung/MCMCLIS-remotesensing/" target="_blank">View on GitHub</a> 
 <br> <br>  
-<img src="assets/imgs/remotesensing.png" img width="800">
+<img src="assets/imgs/remotesensing.png" img width="700">
 <br>
 <hr>
 <br>
