@@ -8,10 +8,9 @@ layout: default
 <table style="width:100%">
   <tr>
     <td> 
-      Hi, I’m Kelvin! With a background in aerospace engineering, I’m now pursing my Master's and doctorate as part of the <a href="https://uqgroup.mit.edu/" target="_blank">Uncertainty Quantification group</a> at MIT. 
-I can be reached by email at <a href = "mailto: kmleung@mit.edu">kmleung@mit.edu</a>. 
+      Hi, I’m Kelvin! With a background in aerospace engineering, I’m currently pursing my Master's and doctorate as part of the <a href="https://uqgroup.mit.edu/" target="_blank">Uncertainty Quantification group</a> at MIT, supervised by Professor Youssef Marzouk. I can be reached by email at <a href = "mailto: kmleung@mit.edu">kmleung@mit.edu</a>. 
       <br> <br>
-      <a href="https://www.linkedin.com/in/kelvin-leung-82641550/" target="_blank">View my LinkedIn Profile</a> &nbsp; 
+      <a href="https://www.linkedin.com/in/kelvin-leung-82641550/" target="_blank"><button type="button"">View my LinkedIn Profile</button> </a> &nbsp; 
       <a href="https://github.com/kelvinmleung" target="_blank">View my GitHub Profile</a> &nbsp; 
       <a href="assets/pdfs/KelvinLeungResume.pdf" target="_blank">Download my Resume</a> <br> &nbsp; 
     </td>
