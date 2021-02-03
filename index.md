@@ -22,9 +22,6 @@ layout: default
 
 
 # Education 
-<br>
-<hr>
-<br>
 
 <b> Master of Science in Aeronautics and Astronautics </b> <br>
 <a href="https://uqgroup.mit.edu/" target="_blank">Uncertainty Quantification Group</a>, <a href="https://acdl-web.mit.edu/" target="_blank">Aerospace Computational Design Laboratory</a> <br>
@@ -40,31 +37,12 @@ Major in Aerospace Engineering <br>
 
 ## Accelerated Bayesian Computation for Global Imaging Spectroscopy
 
-<!-- <table style="width:100%">
-  <colgroup>
-       <col span="1" style="width: 60%;">
-       <col span="1" style="width: 40%;">
-    </colgroup>
-  <tbody>
-    <tr>
-      <td> !-->
-        My current research project involves developing Bayesian methods for Earth remote sensing applications, with the goal of mapping the composition and biodiversity of the Earth surface in order to better understand terrestrial and aquatic ecosystems. Given radiance data collected from satellites, the surface reflectance and certain parameters relating to the atmosphere are retrieved through the inverse problem. While current methods are able to return an acceptable point estimate, they do not yield an accurate representation of the uncertainties. In this project, we develop a Bayesian Markov chain Monte Carlo (MCMC) algorithm to retrieve a posterior distribution that better quantifies the uncertainty. Since MCMC requires much more computational power, methods of linearization and dimension reduction are also investigated.
-             <br> <br>   
-        <a href="https://github.com/kelvinmleung/MCMCLIS-remotesensing/" target="_blank">View on GitHub</a> 
-         <br> <br>  
-         <img src="assets/imgs/remotesensing.png" img width="800">
-<!--        <br> <br>
-        <a href="https://github.com/kelvinmleung/MCMCLIS-remotesensing/" target="_blank">View on GitHub</a> 
-      </td>
-      <td>
-        <div>
-        <img src="assets/imgs/remotesensing.png" img width="700"> 
-        </div>
-      </td>
-    </tr>
-  </tbody>
-  </table> !-->
-  <br>
+My current research project involves developing Bayesian methods for Earth remote sensing applications, with the goal of mapping the composition and biodiversity of the Earth surface in order to better understand terrestrial and aquatic ecosystems. Given radiance data collected from satellites, the surface reflectance and certain parameters relating to the atmosphere are retrieved through the inverse problem. While current methods are able to return an acceptable point estimate, they do not yield an accurate representation of the uncertainties. In this project, we develop a Bayesian Markov chain Monte Carlo (MCMC) algorithm to retrieve a posterior distribution that better quantifies the uncertainty. Since MCMC requires much more computational power, methods of linearization and dimension reduction are also investigated.
+<br> <br>   
+<a href="https://github.com/kelvinmleung/MCMCLIS-remotesensing/" target="_blank">View on GitHub</a> 
+<br> <br>  
+<img src="assets/imgs/remotesensing.png" img width="800">
+<br>
 <hr>
 <br>
 
@@ -101,19 +79,12 @@ For an undergraduate engineering design course, my team designed and constructed
   <tbody>
     <tr>
       <td> 
-<b> Research Intern &nbsp; &nbsp; &nbsp; Summer 2017 </b> <br>
+<b> Research Intern &nbsp; &nbsp; &nbsp; &nbsp; Summer 2017 </b> <br>
 <i>Germany Aerospace Center (DLR) </i> <br>
-<ul>
-   <li>item 1 </li>
-   <li>Item 2 </li>
-  </ul>
+<!-- <ul> <li>item 1 </li> <li>Item 2 </li> </ul> !-->
   
-  <b> Research Assistant &nbsp; &nbsp; &nbsp; Summer 2016 </b> <br>
+  <b> Research Assistant &nbsp; &nbsp; &nbsp; &nbsp; Summer 2016 </b> <br>
 <i> University of Toronto Institute for Aerospace Studies </i> <br>
-<ul>
-   <li>item 1 </li>
-   <li>Item 2 </li>
-  </ul>
 
    </td>
       <td>
