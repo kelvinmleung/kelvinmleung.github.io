@@ -81,11 +81,10 @@ For an undergraduate engineering design course, my team designed and constructed
       <td> 
 <b> Research Intern &nbsp; &nbsp; &nbsp; &nbsp; Summer 2017 </b> <br>
 <i>Germany Aerospace Center (DLR) </i> <br>
-<!-- <ul> <li>item 1 </li> <li>Item 2 </li> </ul> !-->
+ <ul> <li>item 1 </li> <li>Item 2 </li> </ul> 
   <br>
   <b> Research Assistant &nbsp; &nbsp; &nbsp; &nbsp; Summer 2016 </b> <br>
 <i> University of Toronto Institute for Aerospace Studies </i> <br>
-
    </td>
       <td>
         <div>
