@@ -70,8 +70,7 @@ For an undergraduate engineering design course, my team designed and constructed
 <hr>
 <br>
 
-# Other Research
-
+<!-- # Other Research
 <table style="width:100%">
   <colgroup>
        <col span="1" style="width: 50%;">
@@ -96,9 +95,7 @@ For an undergraduate engineering design course, my team designed and constructed
     </tr>
   </tbody>
   </table>
-
-
-<!-- # Fun Stuff
+ # Fun Stuff
 {% include youtubePlayer.html id="n5x_kSzzbGw" %} !-->
 
 
