@@ -73,27 +73,27 @@ For an undergraduate engineering design course, my team designed and constructed
 
 # Experience
 
-<b> Research Assistant, 2020 - Present </b> <br>
+<b> Research Assistant, </b>  &nbsp; 2020 - Present<br>
 Project: Accelerated Bayesian computation for global imaging spectroscopy <br>
 <i> Massachusetts Institute of Technology </i> <br>
 <br>
-<b> Teaching Assistant, Fall 2019 </b> <br>
-Course: Aerodynamics (16.100)
+<b> Teaching Assistant, </b> &nbsp; Fall 2019<br>
+Course: Aerodynamics (16.100)<br>
 <i> Massachusetts Institute of Technology </i> <br>
 <br>
-<b> Teaching Assistant (Calculus I and II), 2018 - 2019 </b> <br>
-Courses: Calculus I & II (MAT187/MAT188)
+<b> Teaching Assistant, </b> &nbsp; 2018 - 2019 <br>
+Courses: Calculus I & II (MAT187/MAT188) <br>
 <i> University of Toronto </i> <br>
 <br>
-<b> Research Assistant, Summer 2018 </b> <br>
+<b> Research Assistant, </b> &nbsp; Summer 2018  <br>
 Project: Airfoil analysis and optimization using CFD; Webfoil <br>
 <i> University of Michigan </i> <br>
 <br>
-<b> Research Intern, Summer 2017 </b> <br>
+<b> Research Intern, &nbsp; Summer 2017 </b> <br>
 Project: Signal processing methods for aircraft engine acoustics <br>
 <i>German Aerospace Center (DLR) </i> <br>
 <br>
-<b> Research Assistant, Summer 2016 </b> <br>
+<b> Research Assistant, </b> &nbsp; Summer 2016 <br>
 Project: Propeller performance analysis for UAV's <br>
 <i> University of Toronto Institute for Aerospace Studies </i>
 
