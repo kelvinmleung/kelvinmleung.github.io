@@ -11,13 +11,12 @@ layout: default
       <br>
       Hi, I’m Kelvin! With a background in aerospace engineering, I’m currently pursing my Master's and doctorate as part of the <a href="https://uqgroup.mit.edu/" target="_blank">Uncertainty Quantification group</a> at MIT, supervised by Professor Youssef Marzouk. I can be reached by email at <a href = "mailto: kmleung@mit.edu">kmleung@mit.edu</a>. 
       <br> <br>
-      <a href="https://www.linkedin.com/in/kelvin-leung-82641550/" target="_blank" class="button1">View my LinkedIn</a> &nbsp; &nbsp;
-      <a href="https://www.linkedin.com/in/kelvin-leung-82641550/" target="_blank">View my LinkedIn Profile </a> &nbsp; &nbsp; 
-      <a href="https://github.com/kelvinmleung" target="_blank">View my GitHub Profile</a> &nbsp; &nbsp; 
+      <a href="https://www.linkedin.com/in/kelvin-leung-82641550/" target="_blank" class="button">View my LinkedIn</a> &nbsp; &nbsp;
+      <a href="https://github.com/kelvinmleung" target="_blank">View my GitHub</a> &nbsp; &nbsp; 
       <a href="assets/pdfs/KelvinLeungResume.pdf" target="_blank">Download my Resume</a> <br> &nbsp; &nbsp; 
       <br> <br> 
     </td>
-    <td><div><img src="assets/imgs/forestPic.JPG" width="250"></div><br></td>     
+    <td><div><img src="assets/imgs/forestPic.JPG" width="400"></div><br></td>     
   </tr>
 </table>
 
@@ -72,28 +71,37 @@ For an undergraduate engineering design course, my team designed and constructed
 <hr>
 <br>
 
-# CV
+# Experience
 
-<b> Teaching Assistant (Aerodynamics) &nbsp; &nbsp; &nbsp; &nbsp; Fall 2019 </b> <br>
+<b> Research Assistant, 2020 - Present </b> <br>
+Project: Accelerated Bayesian computation for global imaging spectroscopy <br>
 <i> Massachusetts Institute of Technology </i> <br>
 <br>
-<b> Teaching Assistant (Calculus I and II) &nbsp; &nbsp; &nbsp; &nbsp; 2018 - 2019 </b> <br>
+<b> Teaching Assistant, Fall 2019 </b> <br>
+Course: Aerodynamics (16.100)
+<i> Massachusetts Institute of Technology </i> <br>
+<br>
+<b> Teaching Assistant (Calculus I and II), 2018 - 2019 </b> <br>
+Courses: Calculus I & II (MAT187/MAT188)
 <i> University of Toronto </i> <br>
 <br>
-<b> Research Assistant &nbsp; &nbsp; &nbsp; &nbsp; Summer 2018 </b> <br>
+<b> Research Assistant, Summer 2018 </b> <br>
+Project: Airfoil analysis and optimization using CFD; Webfoil <br>
 <i> University of Michigan </i> <br>
 <br>
-<b> Research Intern &nbsp; &nbsp; &nbsp; &nbsp; Summer 2017 </b> <br>
+<b> Research Intern, Summer 2017 </b> <br>
+Project: Signal processing methods for aircraft engine acoustics <br>
 <i>German Aerospace Center (DLR) </i> <br>
 <br>
-<b> Research Assistant &nbsp; &nbsp; &nbsp; &nbsp; Summer 2016 </b> <br>
+<b> Research Assistant, Summer 2016 </b> <br>
+Project: Propeller performance analysis for UAV's <br>
 <i> University of Toronto Institute for Aerospace Studies </i>
 
 <br>
 <hr>
 <br>
 
- # Music 
+# Music 
 {% include youtubePlayer.html id="n5x_kSzzbGw" %}
 
 
