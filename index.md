@@ -38,7 +38,7 @@ Major in Aerospace Engineering <br>
 
 My current research project involves developing Bayesian methods for Earth remote sensing applications, with the goal of mapping the composition and biodiversity of the Earth surface in order to better understand terrestrial and aquatic ecosystems. Given radiance data collected from satellites, the surface reflectance and certain parameters relating to the atmosphere are retrieved through the inverse problem. While current methods are able to return an acceptable point estimate, they do not yield an accurate representation of the uncertainties. In this project, we develop a Markov chain Monte Carlo (MCMC) algorithm to retrieve a posterior distribution that better quantifies the uncertainty. Since MCMC requires much more computational power, methods of linearization and dimension reduction are investigated and implemented.
 <br> <br> 
-<a href="https://github.com/kelvinmleung/MCMCLIS-remotesensing/"> <img src="assets/imgs/remotesensing.png" img width="700" alt="centered image" target="_blank"> </a> 
+<a href="https://github.com/kelvinmleung/MCMCLIS-remotesensing/"> <img src="assets/imgs/remotesensing.png" img width="700" class="center" target="_blank"> </a> 
 <br> <br>
 <a href="https://github.com/kelvinmleung/MCMCLIS-remotesensing/" target="_blank" class="button">View on Github</a>
 <br>
@@ -50,7 +50,7 @@ My current research project involves developing Bayesian methods for Earth remot
 During the summer months of 2018, I did research at the University of Michigan MDO lab. We developed a web application called <a href="https://webfoil.engin.umich.edu/">Webfoil</a> that serves as a comprehensive, open-source database of airfoils that includes built-in tools for aerodynamic analysis and optimization. The database includes downloadable information such as geometric coordinates and other airfoil characteristics. One of my contributions was to run various airfoil shapes through CFD software such as Xfoil and ADFlow and compile the lift, drag, and moment data into the database. The analysis tool contains several plots that change based on user input of Reynolds number, Mach number, and angle of attack. The optimization tool uses a surrogate model to generate a new airfoil shape that minimizes drag for a given thickness, Mach number, and coefficient of lift.
 <center>
   <br> <br>  
-    <a href="http://webfoil.engin.umich.edu/"> <img src="assets/imgs/webfoil.png" img width="800" alt="centered image" target="_blank"> </a> 
+    <a href="http://webfoil.engin.umich.edu/"> <img src="assets/imgs/webfoil.png" img width="800" class="center" target="_blank"> </a> 
 </center>
 <br> <br>
 <a href="http://webfoil.engin.umich.edu/" target="_blank" class="button">Go to Webfoil</a>
