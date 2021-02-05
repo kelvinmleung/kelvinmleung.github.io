@@ -73,27 +73,27 @@ For an undergraduate engineering design course, my team designed and constructed
 
 # Experience
 
-<b> Research Assistant, </b>  &nbsp; 2020 - Present<br>
+<b> Research Assistant, </b> &nbsp; &nbsp; 2020 - Present<br>
 Project: Accelerated Bayesian computation for global imaging spectroscopy <br>
 <i> Massachusetts Institute of Technology </i> <br>
 <br>
-<b> Teaching Assistant, </b> &nbsp; Fall 2019<br>
+<b> Teaching Assistant, </b> &nbsp; &nbsp; Fall 2019<br>
 Course: Aerodynamics (16.100)<br>
 <i> Massachusetts Institute of Technology </i> <br>
 <br>
-<b> Teaching Assistant, </b> &nbsp; 2018 - 2019 <br>
+<b> Teaching Assistant, </b> &nbsp; &nbsp; 2018 - 2019 <br>
 Courses: Calculus I & II (MAT187/MAT188) <br>
 <i> University of Toronto </i> <br>
 <br>
-<b> Research Assistant, </b> &nbsp; Summer 2018  <br>
+<b> Research Assistant, </b> &nbsp; &nbsp; Summer 2018  <br>
 Project: Airfoil analysis and optimization using CFD; Webfoil <br>
 <i> University of Michigan </i> <br>
 <br>
-<b> Research Intern, &nbsp; Summer 2017 </b> <br>
+<b> Research Intern, </b> &nbsp; &nbsp; Summer 2017<br>
 Project: Signal processing methods for aircraft engine acoustics <br>
 <i>German Aerospace Center (DLR) </i> <br>
 <br>
-<b> Research Assistant, </b> &nbsp; Summer 2016 <br>
+<b> Research Assistant, </b> &nbsp; &nbsp; Summer 2016 <br>
 Project: Propeller performance analysis for UAV's <br>
 <i> University of Toronto Institute for Aerospace Studies </i>
 
@@ -102,6 +102,6 @@ Project: Propeller performance analysis for UAV's <br>
 <br>
 
 # Music 
-{% include youtubePlayer.html id="n5x_kSzzbGw" %}
+{% include youtubePlayer.html id="kEHqc1yWxV0" %}
 
 
