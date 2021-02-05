@@ -124,7 +124,8 @@ Project: Propeller performance analysis for UAVs <br>
   <tr>
     <td> 
       <br> <br>
-      Not long after starting piano, I picked up violin as well. While piano is a nice solo instrument, violin allows me to join ensembles. One of the highlights of my undergrad years was being a part of <a href="https://www.harthouseorchestra.ca/" target="_blank">Hart House Orchestra</a>. We even performed at Carnegie Hall and several beautiful churches in Germany! <br>
+      Not long after starting piano, I picked up violin as well. While piano is a nice solo instrument, violin allows me to join ensembles. One of the highlights of my undergrad years was being a part of <a href="https://www.harthouseorchestra.ca/" target="_blank">Hart House Orchestra</a>. We even performed at Carnegie Hall and several beautiful churches in Germany! 
+      <br> <br>
       In my spare time, I make covers of the songs that I like listening to. This is one of favourite videos, a song by Hong Kong singer Eason Chan.      
       <br> <br>
     </td>
