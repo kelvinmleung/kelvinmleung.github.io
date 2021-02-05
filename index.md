@@ -62,8 +62,8 @@ During the summer months of 2018, I did research at the University of Michigan M
 
 ## Can Sorting Machine
 
-For an undergraduate engineering design course, my team designed and constructed a fully autonomous machine that is capable of sorting cans for recycling. There were four categories of cans: tin cans with label, tin cans without label, aluminum cans with tab, and aluminum cans without tab.  Our machine used a dual level approach to first sort based on size. The upper level contained cutouts to allow the aluminum cans to fall to the lower level. A camshaft was used to shake both levels to separate the tin and aluminum cans, which then travelled into their respective chutes. At the bottom of the chute for tin cans, the presence or absence of a paper label on each can was evaluated using conductive thread. At the bottom of chute for aluminum cans, the presence or absence of a tab was detected using flex sensors. Based on the sensor data, the cans were dropped into the appropriate bucket. I was the electrical member, responsible for the implementation of digital and analog interfacing electronics, including circuit design and sensor selection and implementation, and integrating with my electromechanical and microcontroller team members. Our machine placed <b>1st</b> in the full semster course competition based on both performance and design.
-
+For an undergraduate engineering design course, my team designed and constructed a fully autonomous machine that is capable of sorting cans for recycling. There were four categories of cans: tin cans with label, tin cans without label, aluminum cans with tab, and aluminum cans without tab.  Our machine used a dual level approach to first sort based on size. The upper level contained cutouts to allow the aluminum cans to fall to the lower level. A camshaft was used to shake both levels to separate the tin and aluminum cans, which then travelled into their respective chutes. At the bottom of the chute for tin cans, the presence or absence of a paper label on each can was evaluated using conductive thread. At the bottom of chute for aluminum cans, the presence or absence of a tab was detected using flex sensors. Based on the sensor data, the cans were dropped into the appropriate bucket. I was the electrical member, responsible for the implementation of digital and analog interfacing electronics, including circuit design and sensor selection and implementation, and integrating with my electromechanical and microcontroller team members. Our machine placed <b>1st</b> in the full semster course competition based on both performance and design. 
+<br>
 {% include youtubePlayer.html id="jpynR-rEgTc" %}
 
 <br>
@@ -96,14 +96,11 @@ Project: Signal processing methods for aircraft engine acoustics <br>
 Project: Propeller performance analysis for UAVs <br>
 <i> University of Toronto Institute for Aerospace Studies </i>
 
-<br>
 <hr>
 
 # Music 
 
 <i> “Music is the universal language of mankind.” </i>
-
-<br>
 
 <table style="width:100%">
   <tr>
@@ -113,7 +110,7 @@ Project: Propeller performance analysis for UAVs <br>
         height="280"
         frameborder="0" 
         allowfullscreen>
-    </iframe>
+    </iframe> <br>
     </td>
     <td><div>
     <br> <br>
@@ -122,7 +119,6 @@ Project: Propeller performance analysis for UAVs <br>
       </div><br></td>     
   </tr>
 </table>
-<br>
 <table style="width:100%">
   <tr>
     <td> 
@@ -142,11 +138,9 @@ Project: Propeller performance analysis for UAVs <br>
       </div><br></td>     
   </tr>
 </table>
-<br>
 <table style="width:100%">
   <tr>
     <td> 
-      <br>
       <iframe src="https://www.youtube.com/embed/kEHqc1yWxV0&ab" 
         width="400" 
         height="280"
