@@ -106,11 +106,13 @@ Project: Propeller performance analysis for UAVs <br>
   <tr>
     <td> 
       <br> <br>
-      Music has been with me for as long as I remember.
+      <i> “Music is the universal language of mankind.” </i>
       <br> <br>
     </td>
     <td><div>
       {% include youtubePlayer.html id="kEHqc1yWxV0" %}
+      <iframe width="420" height="345" src="https://www.youtube.com/embed/kEHqc1yWxV0">
+</iframe>
       </div><br></td>     
   </tr>
 </table>
