@@ -6,7 +6,7 @@ layout: default
 ***
 <table style="width:100%">
   <tr>
-    <td> 
+    <td width="70%"> 
       <br> Hi, I’m Kelvin! With a background in aerospace engineering, I’m currently pursing my Master's and doctorate as part of the <a href="https://uqgroup.mit.edu/" target="_blank">Uncertainty Quantification group</a> at MIT, supervised by Professor Youssef Marzouk. I can be reached by email at <a href = "mailto: kmleung@mit.edu">kmleung@mit.edu</a>. 
       <br> <br>
       <a href="https://www.linkedin.com/in/kelvin-leung-82641550/" target="_blank" class="button">LinkedIn</a> &nbsp; &nbsp;
@@ -14,7 +14,7 @@ layout: default
       <a href="assets/pdfs/KelvinLeungResume.pdf" target="_blank" class="button">Download my Resume</a>
       <br> <br> 
     </td>
-    <td><div>
+    <td width="30%"><div>
       <img src="assets/imgs/forestPic.JPG" style="width:300px;">
       </div><br></td>     
   </tr>
@@ -102,7 +102,7 @@ Project: Propeller performance analysis for UAVs <br>
 
 <table style="width:100%">
   <tr>
-    <td> 
+    <td width="30%"> 
       <iframe src="https://www.youtube.com/embed/tVSJNylOxes" 
         width="400" 
         height="280"
@@ -110,7 +110,7 @@ Project: Propeller performance analysis for UAVs <br>
         allowfullscreen>
     </iframe> <br>
     </td>
-    <td><div>
+    <td width="70%"><div>
     <br> <br>
       I've been playing piano since I was 4. I stopped taking lessons after high school but I try to play whenever I get a chance. This performance was at my sister's wedding a few years ago.
       <br> <br>
@@ -120,14 +120,14 @@ Project: Propeller performance analysis for UAVs <br>
 
 <table style="width:100%">
   <tr>
-    <td> 
+    <td width="70%"> 
       <br> <br>
       Not long after starting piano, I picked up violin as well. While piano is a nice solo instrument, violin allows me to join ensembles. One of the highlights of my undergrad years was being a part of <a href="https://www.harthouseorchestra.ca/" target="_blank">Hart House Orchestra</a>. We even performed at Carnegie Hall and several beautiful churches in Germany! 
       <br> <br>
       In my spare time, I make covers of the songs that I like listening to. This is one of favourite videos, a song by Hong Kong singer Eason Chan.      
       <br> <br>
     </td>
-    <td><div>
+    <td width="30%"><div>
       <iframe src="https://www.youtube.com/embed/00bKj2Cd-As" 
         width="400" 
         height="280"
@@ -140,7 +140,7 @@ Project: Propeller performance analysis for UAVs <br>
 
 <table style="width:100%">
   <tr>
-    <td> 
+    <td width="30%"> 
       <iframe src="https://www.youtube.com/embed/kEHqc1yWxV0" 
         width="400" 
         height="280"
@@ -149,7 +149,7 @@ Project: Propeller performance analysis for UAVs <br>
     </iframe>
       <br> <br>
     </td>
-    <td><div>
+    <td width="70%"><div>
       A blast from the past, with my love of LEGO as a child. This grand piano set came out in late 2020, and I bought and assembled it right away. It can even connect to your phone and play live music!
       </div><br></td>     
   </tr>
