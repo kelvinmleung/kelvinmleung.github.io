@@ -11,17 +11,14 @@ layout: default
       <br>
       Hi, I’m Kelvin! With a background in aerospace engineering, I’m currently pursing my Master's and doctorate as part of the <a href="https://uqgroup.mit.edu/" target="_blank">Uncertainty Quantification group</a> at MIT, supervised by Professor Youssef Marzouk. I can be reached by email at <a href = "mailto: kmleung@mit.edu">kmleung@mit.edu</a>. 
       <br> <br>
-      <a href="https://www.linkedin.com/in/kelvin-leung-82641550/" target="_blank" class="button">View my LinkedIn</a> &nbsp; &nbsp;
-      <a href="https://github.com/kelvinmleung" target="_blank" class="button">View my Github</a> &nbsp; &nbsp;
-      <a href="assets/pdfs/KelvinLeungResume.pdf" target="_blank" class="button">Download my Resume</a> &nbsp; &nbsp;
+      <a href="https://www.linkedin.com/in/kelvin-leung-82641550/" target="_blank" class="button">LinkedIn</a> &nbsp;
+      <a href="https://github.com/kelvinmleung" target="_blank" class="button">Github</a> &nbsp;
+      <a href="assets/pdfs/KelvinLeungResume.pdf" target="_blank" class="button">Download my Resume</a>
       <br> <br> 
     </td>
     <td><div><img src="assets/imgs/forestPic.JPG" style="width:300px;height:300px;"></div><br></td>     
   </tr>
 </table>
-
-
-
 
 # Education 
 
