@@ -104,8 +104,6 @@ Project: Propeller performance analysis for UAVs <br>
   <tr>
     <td width="30%"> 
       <iframe src="https://www.youtube.com/embed/tVSJNylOxes" 
-        width="300" 
-        height="200"
         frameborder="0" 
         allowfullscreen>
     </iframe> <br>
@@ -127,8 +125,6 @@ Project: Propeller performance analysis for UAVs <br>
     </td>
     <td width="30%"><div>
       <iframe src="https://www.youtube.com/embed/00bKj2Cd-As" 
-        width="300" 
-        height="200"
         frameborder="0" 
         allowfullscreen>
     </iframe>
@@ -146,7 +142,9 @@ Project: Propeller performance analysis for UAVs <br>
       <br> <br>
     </td>
     <td width="70%"><div>
+      <br> <br>
       When this Lego grand piano set came out in 2020, I bought it and assembled it right away. It can connect to your phone and play live music.
+      <br> <br>
       </div><br></td>     
   </tr>
 </table>
