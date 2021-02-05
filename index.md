@@ -94,7 +94,7 @@ Project: Signal processing methods for aircraft engine acoustics <br>
 <i>German Aerospace Center (DLR) </i> <br>
 <br>
 <b> Research Assistant, </b> &nbsp; &nbsp; Summer 2016 <br>
-Project: Propeller performance analysis for UAV's <br>
+Project: Propeller performance analysis for UAVs <br>
 <i> University of Toronto Institute for Aerospace Studies </i>
 
 <br>
@@ -102,6 +102,19 @@ Project: Propeller performance analysis for UAV's <br>
 <br>
 
 # Music 
-{% include youtubePlayer.html id="kEHqc1yWxV0" %}
+<table style="width:100%">
+  <tr>
+    <td> 
+      <br> <br>
+      Music has been with me for as long as I remember.
+      <br> <br>
+    </td>
+    <td><div>
+      {% include youtubePlayer.html id="kEHqc1yWxV0" %}
+      </div><br></td>     
+  </tr>
+</table>
+
+
 
 
