@@ -129,7 +129,7 @@ Project: Propeller performance analysis for UAVs <br>
       <br> <br>
     </td>
     <td><div>
-      <iframe src="https://www.youtube.com/embed/00bKj2Cd-As&ab" 
+      <iframe src="https://www.youtube.com/embed/00bKj2Cd-As" 
         width="400" 
         height="280"
         frameborder="0" 
@@ -141,7 +141,7 @@ Project: Propeller performance analysis for UAVs <br>
 <table style="width:100%">
   <tr>
     <td> 
-      <iframe src="https://www.youtube.com/embed/kEHqc1yWxV0&ab" 
+      <iframe src="https://www.youtube.com/embed/kEHqc1yWxV0" 
         width="400" 
         height="280"
         frameborder="0" 
