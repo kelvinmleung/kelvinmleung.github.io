@@ -140,8 +140,6 @@ Project: Propeller performance analysis for UAVs <br>
   <tr>
     <td width="30%"> 
       <iframe src="https://www.youtube.com/embed/kEHqc1yWxV0" 
-        width="300" 
-        height="200"
         frameborder="0" 
         allowfullscreen>
     </iframe>
