@@ -15,7 +15,7 @@ layout: default
       <br> <br> 
     </td>
     <td><div>
-      <img src="assets/imgs/forestPic.JPG" style="width:300px;height:300px;">
+      <img src="assets/imgs/forestPic.JPG" style="width:300px;">
       </div><br></td>     
   </tr>
 </table>
