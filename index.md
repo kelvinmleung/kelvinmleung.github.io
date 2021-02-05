@@ -112,7 +112,7 @@ Project: Propeller performance analysis for UAVs <br>
     </td>
     <td width="70%"><div>
     <br> <br>
-      I've been playing piano since I was 4. I stopped taking lessons after high school but I try to play whenever I get a chance.
+      Piano and violin have been a huge part of my life since I was little. I stopped taking lessons after high school but I try to play whenever I get a chance.
       <br> <br>
       </div><br></td>     
   </tr>
@@ -122,7 +122,7 @@ Project: Propeller performance analysis for UAVs <br>
   <tr>
     <td width="70%"> 
       <br> <br>
-      Not long after starting piano, I picked up violin as well. One of the highlights was being a part of <a href="https://www.harthouseorchestra.ca/" target="_blank">Hart House Orchestra</a> and performing at venues such as Carnegie Hall and beautiful churches in Germany. I sometimes make song covers in my spare time.
+      One of the highlights of my undergrad was being a part of <a href="https://www.harthouseorchestra.ca/" target="_blank">Hart House Orchestra</a> and performing at venues such as Carnegie Hall and some beautiful churches in Germany. I sometimes make song covers in my spare time.
       <br> <br>
     </td>
     <td width="30%"><div>
@@ -146,7 +146,7 @@ Project: Propeller performance analysis for UAVs <br>
       <br> <br>
     </td>
     <td width="70%"><div>
-      This Lego grand piano set came out in 2020, and I bought it and assembled it right away. It can connect to your phone and play live music.
+      When this Lego grand piano set came out in 2020, I bought it and assembled it right away. It can connect to your phone and play live music.
       </div><br></td>     
   </tr>
 </table>
