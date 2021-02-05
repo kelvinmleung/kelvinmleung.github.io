@@ -43,7 +43,6 @@ My current research project involves developing Bayesian methods for Earth remot
 <br> <br> 
 <a href="https://github.com/kelvinmleung/MCMCLIS-remotesensing/" target="_blank">View on GitHub</a> 
 <br> <br>  
-<!-- <img src="assets/imgs/remotesensing.png" img width="700"  alt="centered image"> !-->
 <a href="https://github.com/kelvinmleung/MCMCLIS-remotesensing/"> <img src="assets/imgs/remotesensing.png" img width="700" alt="centered image" target="_blank"> </a> 
 <br> <br>
 <hr>
@@ -109,7 +108,12 @@ Project: Propeller performance analysis for UAVs <br>
 <table style="width:100%">
   <tr>
     <td> 
-      <iframe width="420" height="300" src="https://www.youtube.com/embed/tVSJNylOxes"> </iframe>
+      <iframe src="https://www.youtube.com/embed/tVSJNylOxes" 
+        width="400" 
+        height="280"
+        frameborder="0" 
+        allowfullscreen>
+    </iframe>
     </td>
     <td><div>
     <br> <br>
@@ -129,7 +133,12 @@ Project: Propeller performance analysis for UAVs <br>
       <br> <br>
     </td>
     <td><div>
-      <iframe width="420" height="300" src="https://www.youtube.com/embed/00bKj2Cd-As"> </iframe>
+      <iframe src="https://www.youtube.com/embed/00bKj2Cd-As&ab" 
+        width="400" 
+        height="280"
+        frameborder="0" 
+        allowfullscreen>
+    </iframe>
       </div><br></td>     
   </tr>
 </table>
@@ -137,8 +146,13 @@ Project: Propeller performance analysis for UAVs <br>
 <table style="width:100%">
   <tr>
     <td> 
-      <br> <br>
-      <iframe width="420" height="300" src="https://www.youtube.com/embed/kEHqc1yWxV0&ab"> </iframe>
+      <br>
+      <iframe src="https://www.youtube.com/embed/kEHqc1yWxV0&ab" 
+        width="400" 
+        height="280"
+        frameborder="0" 
+        allowfullscreen>
+    </iframe>
       <br> <br>
     </td>
     <td><div>
