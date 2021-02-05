@@ -69,10 +69,10 @@ For an undergraduate engineering design course, my team designed and constructed
 
 <br>
 <hr>
-<br>
 
 # Experience
 
+<br>
 <b> Research Assistant, </b> &nbsp; &nbsp; 2020 - Present<br>
 Project: Accelerated Bayesian computation for global imaging spectroscopy <br>
 <i> Massachusetts Institute of Technology </i> <br>
@@ -99,7 +99,6 @@ Project: Propeller performance analysis for UAVs <br>
 
 <br>
 <hr>
-<br>
 
 # Music 
 
