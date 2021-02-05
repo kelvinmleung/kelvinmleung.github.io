@@ -70,27 +70,27 @@ For an undergraduate engineering design course, my team designed and constructed
 # Experience
 
 <br>
-<b> Research Assistant, </b> &nbsp; &nbsp; 2020 - Present<br>
+<b> Research Assistant </b> &nbsp; &nbsp; 2020 - Present<br>
 Project: Accelerated Bayesian computation for global imaging spectroscopy <br>
 <i> Massachusetts Institute of Technology </i> <br>
 <br>
-<b> Teaching Assistant, </b> &nbsp; &nbsp; Fall 2019<br>
+<b> Teaching Assistant </b> &nbsp; &nbsp; Fall 2019<br>
 Course: Aerodynamics (16.100)<br>
 <i> Massachusetts Institute of Technology </i> <br>
 <br>
-<b> Teaching Assistant, </b> &nbsp; &nbsp; 2018 - 2019 <br>
+<b> Teaching Assistant </b> &nbsp; &nbsp; 2018 - 2019 <br>
 Courses: Calculus I & II (MAT187/MAT188) <br>
 <i> University of Toronto </i> <br>
 <br>
-<b> Research Assistant, </b> &nbsp; &nbsp; Summer 2018  <br>
+<b> Research Assistant </b> &nbsp; &nbsp; Summer 2018  <br>
 Project: Airfoil analysis and optimization using CFD; Webfoil <br>
 <i> University of Michigan </i> <br>
 <br>
-<b> Research Intern, </b> &nbsp; &nbsp; Summer 2017<br>
+<b> Research Intern </b> &nbsp; &nbsp; Summer 2017<br>
 Project: Signal processing methods for aircraft engine acoustics <br>
 <i>German Aerospace Center (DLR) </i> <br>
 <br>
-<b> Research Assistant, </b> &nbsp; &nbsp; Summer 2016 <br>
+<b> Research Assistant </b> &nbsp; &nbsp; Summer 2016 <br>
 Project: Propeller performance analysis for UAVs <br>
 <i> University of Toronto Institute for Aerospace Studies </i>
 
@@ -104,15 +104,15 @@ Project: Propeller performance analysis for UAVs <br>
   <tr>
     <td width="30%"> 
       <iframe src="https://www.youtube.com/embed/tVSJNylOxes" 
-        width="400" 
-        height="280"
+        width="300" 
+        height="200"
         frameborder="0" 
         allowfullscreen>
     </iframe> <br>
     </td>
     <td width="70%"><div>
     <br> <br>
-      I've been playing piano since I was 4. I stopped taking lessons after high school but I try to play whenever I get a chance. This performance was at my sister's wedding a few years ago.
+      I've been playing piano since I was 4. I stopped taking lessons after high school but I try to play whenever I get a chance.
       <br> <br>
       </div><br></td>     
   </tr>
@@ -122,15 +122,13 @@ Project: Propeller performance analysis for UAVs <br>
   <tr>
     <td width="70%"> 
       <br> <br>
-      Not long after starting piano, I picked up violin as well. While piano is a nice solo instrument, violin allows me to join ensembles. One of the highlights of my undergrad years was being a part of <a href="https://www.harthouseorchestra.ca/" target="_blank">Hart House Orchestra</a>. We even performed at Carnegie Hall and several beautiful churches in Germany! 
-      <br> <br>
-      In my spare time, I make covers of the songs that I like listening to. This is one of favourite videos, a song by Hong Kong singer Eason Chan.      
+      Not long after starting piano, I picked up violin as well. One of the highlights was being a part of <a href="https://www.harthouseorchestra.ca/" target="_blank">Hart House Orchestra</a> and performing at venues such as Carnegie Hall and beautiful churches in Germany. I sometimes make song covers in my spare time.
       <br> <br>
     </td>
     <td width="30%"><div>
       <iframe src="https://www.youtube.com/embed/00bKj2Cd-As" 
-        width="400" 
-        height="280"
+        width="300" 
+        height="200"
         frameborder="0" 
         allowfullscreen>
     </iframe>
@@ -142,15 +140,15 @@ Project: Propeller performance analysis for UAVs <br>
   <tr>
     <td width="30%"> 
       <iframe src="https://www.youtube.com/embed/kEHqc1yWxV0" 
-        width="400" 
-        height="280"
+        width="300" 
+        height="200"
         frameborder="0" 
         allowfullscreen>
     </iframe>
       <br> <br>
     </td>
     <td width="70%"><div>
-      A blast from the past, with my love of LEGO as a child. This grand piano set came out in late 2020, and I bought and assembled it right away. It can even connect to your phone and play live music!
+      This Lego grand piano set came out in 2020, and I bought it and assembled it right away. It can connect to your phone and play live music.
       </div><br></td>     
   </tr>
 </table>
