@@ -7,7 +7,7 @@ layout: default
 <table style="width:100%">
   <tr>
     <td width="70%"> 
-      <br> Hi, I’m Kelvin! With a background in aerospace engineering, I’m currently pursing my Master's and doctorate as part of the <a href="https://uqgroup.mit.edu/" target="_blank">Uncertainty Quantification group</a> at MIT, supervised by Professor Youssef Marzouk. I can be reached by email at <a href = "mailto: kmleung@mit.edu">kmleung@mit.edu</a>. 
+      <br> Hi, I’m Kelvin! With a background in aerospace engineering, I’m currently pursing my master's and doctorate in the <a href="https://uqgroup.mit.edu/" target="_blank">Uncertainty Quantification Group</a> at MIT, supervised by Professor Youssef Marzouk. I can be reached by email at <a href = "mailto: kmleung@mit.edu">kmleung@mit.edu</a>. 
       <br> <br>
       <a href="https://www.linkedin.com/in/kelvin-leung-82641550/" target="_blank" class="button">LinkedIn</a> &nbsp; &nbsp;
       <a href="https://github.com/kelvinmleung" target="_blank" class="button">Github</a> &nbsp; &nbsp;
