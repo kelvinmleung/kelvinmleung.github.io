@@ -11,7 +11,7 @@ layout: default
       <br>
       Hi, I’m Kelvin! With a background in aerospace engineering, I’m currently pursing my Master's and doctorate as part of the <a href="https://uqgroup.mit.edu/" target="_blank">Uncertainty Quantification group</a> at MIT, supervised by Professor Youssef Marzouk. I can be reached by email at <a href = "mailto: kmleung@mit.edu">kmleung@mit.edu</a>. 
       <br> <br>
-      <a href="https://www.linkedin.com/in/kelvin-leung-82641550/" target="_blank"><button type="button1">View my LinkedIn Profile</button> </a> &nbsp; &nbsp;
+      <a href="https://www.linkedin.com/in/kelvin-leung-82641550/" target="_blank" class="button1">View my LinkedIn Profile</button> </a> &nbsp; &nbsp;
       <a href="https://www.linkedin.com/in/kelvin-leung-82641550/" target="_blank">View my LinkedIn Profile </a> &nbsp; &nbsp; 
       <a href="https://github.com/kelvinmleung" target="_blank">View my GitHub Profile</a> &nbsp; &nbsp; 
       <a href="assets/pdfs/KelvinLeungResume.pdf" target="_blank">Download my Resume</a> <br> &nbsp; &nbsp; 
@@ -72,31 +72,28 @@ For an undergraduate engineering design course, my team designed and constructed
 <hr>
 <br>
 
-<!-- # Other Research
-<table style="width:100%">
-  <colgroup>
-       <col span="1" style="width: 50%;">
-       <col span="1" style="width: 50%;">
-    </colgroup>
-  <tbody>
-    <tr>
-      <td> 
+# CV
+
+<b> Teaching Assistant (Aerodynamics) &nbsp; &nbsp; &nbsp; &nbsp; Fall 2019 </b> <br>
+<i> Massachusetts Institute of Technology </i> <br>
+<br>
+<b> Teaching Assistant (Calculus I and II) &nbsp; &nbsp; &nbsp; &nbsp; 2018 - 2019 </b> <br>
+<i> University of Toronto </i> <br>
+<br>
+<b> Research Assistant &nbsp; &nbsp; &nbsp; &nbsp; Summer 2018 </b> <br>
+<i> University of Michigan </i> <br>
+<br>
 <b> Research Intern &nbsp; &nbsp; &nbsp; &nbsp; Summer 2017 </b> <br>
-<i>Germany Aerospace Center (DLR) </i> <br>
- <ul> <li>item 1 </li> <li>Item 2 </li> </ul> 
-  <br>
-  <b> Research Assistant &nbsp; &nbsp; &nbsp; &nbsp; Summer 2016 </b> <br>
-<i> University of Toronto Institute for Aerospace Studies </i> <br>
-   </td>
-      <td>
-        <div>
-         <img src="assets/gifs/work.gif" width="400">   
-        </div>
-      </td>
-    </tr>
-  </tbody>
-  </table>
- # Fun Stuff
-{% include youtubePlayer.html id="n5x_kSzzbGw" %} !-->
+<i>German Aerospace Center (DLR) </i> <br>
+<br>
+<b> Research Assistant &nbsp; &nbsp; &nbsp; &nbsp; Summer 2016 </b> <br>
+<i> University of Toronto Institute for Aerospace Studies </i>
+
+<br>
+<hr>
+<br>
+
+ # Music 
+{% include youtubePlayer.html id="n5x_kSzzbGw" %}
 
 
