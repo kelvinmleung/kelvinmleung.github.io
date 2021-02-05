@@ -104,22 +104,9 @@ Project: Propeller performance analysis for UAVs <br>
 # Music 
 
 <i> “Music is the universal language of mankind.” </i>
-<!-- <table style="width:100%">
-  <tr>
-    <td> 
-      <br> <br>
-     
-      <br> <br>
-    </td>
-    <td><div>
-      PICTURE
-      </div><br></td>     
-  </tr> 
-</table>  !-->
 
 <br>
-<hr>
-<br>
+
 <table style="width:100%">
   <tr>
     <td> 
@@ -132,8 +119,6 @@ Project: Propeller performance analysis for UAVs <br>
       </div><br></td>     
   </tr>
 </table>
-<br>
-<hr>
 <br>
 <table style="width:100%">
   <tr>
@@ -148,8 +133,6 @@ Project: Propeller performance analysis for UAVs <br>
       </div><br></td>     
   </tr>
 </table>
-<br>
-<hr>
 <br>
 <table style="width:100%">
   <tr>
