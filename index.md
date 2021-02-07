@@ -7,11 +7,11 @@ layout: default
 <table style="width:100%">
   <tr>
     <td width="70%"> 
-      <br> Hi, I’m Kelvin! With a background in aerospace engineering, I’m currently pursing my master's and doctorate in the <a href="https://uqgroup.mit.edu/" target="_blank">Uncertainty Quantification Group</a> at MIT, supervised by Professor Youssef Marzouk. I can be reached by email at <a href = "mailto: kmleung@mit.edu">kmleung@mit.edu</a>. 
+      <br> Hi, I’m Kelvin! With a background in aerospace engineering, I’m currently pursing my master's and doctorate in the <a href="https://uqgroup.mit.edu/" target="_blank">Uncertainty Quantification Group</a> at MIT, supervised by Professor Youssef Marzouk. My current research is in the field of Bayesian statistics. I also have an interest in optimization and machine learning, and I’m always looking for opportunities to learn new skills in practice. I can be reached by email at <a href = "mailto: kmleung@mit.edu">kmleung@mit.edu</a>. 
       <br> <br>
       <a href="https://www.linkedin.com/in/kelvin-leung-82641550/" target="_blank" class="button">LinkedIn</a> &nbsp; &nbsp;
       <a href="https://github.com/kelvinmleung" target="_blank" class="button">Github</a> &nbsp; &nbsp;
-      <a href="assets/pdfs/KelvinLeungResume.pdf" target="_blank" class="button">Download my Resume</a>
+      <a href="assets/pdfs/KelvinLeungResume.pdf" target="_blank" class="button">CV</a>
       <br> <br> 
     </td>
     <td width="30%"><div>
