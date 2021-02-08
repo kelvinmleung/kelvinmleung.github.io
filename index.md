@@ -11,7 +11,7 @@ layout: default
       <br> <br>
       <a href="https://www.linkedin.com/in/kelvin-leung-82641550/" target="_blank" class="button">LinkedIn</a> &nbsp; &nbsp;
       <a href="https://github.com/kelvinmleung" target="_blank" class="button">Github</a> &nbsp; &nbsp;
-      <a href="assets/pdfs/KelvinLeungResume.pdf" target="_blank" class="button">CV</a>
+      <a href="assets/pdfs/KelvinLeungCV.pdf" target="_blank" class="button">CV</a>
       <br> <br> 
     </td>
     <td width="30%"><div>
